@@ -1,1 +1,1 @@
-return "Hello skid"
+return "Hello skidd"
